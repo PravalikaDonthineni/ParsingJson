@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "6330406981fd28d4aead0459fd642ed0"
+build_time: [1545202216, 222021000]
+inputs:
+  "/Users/pravalika/Desktop/ParsingJson/ParsingJson/Controller/ViewController.swift": [1545202216, 0]
+  "/Users/pravalika/Desktop/ParsingJson/ParsingJson/Controller/descriptionViewController.swift": [1545172512, 0]
+  "/Users/pravalika/Desktop/ParsingJson/ParsingJson/Model/ Model.swift": [1545090704, 0]
+  "/Users/pravalika/Desktop/ParsingJson/ParsingJson/AppDelegate.swift": [1544735417, 0]

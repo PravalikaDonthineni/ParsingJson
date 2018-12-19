@@ -1,0 +1,589 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Object"
+- "CarObjectSummary"
+- "Image"
+- "ComputerObjectSummary"
+- "AnimalObjectSummary"
+- "ObjectDetails"
+provides-nominal:
+- "11ParsingJson6ObjectV"
+- "11ParsingJson6ObjectV10CodingKeysO"
+- "11ParsingJson16CarObjectSummaryV"
+- "11ParsingJson16CarObjectSummaryV10CodingKeysO"
+- "11ParsingJson5ImageV"
+- "11ParsingJson5ImageV10CodingKeysO"
+- "11ParsingJson21ComputerObjectSummaryV"
+- "11ParsingJson21ComputerObjectSummaryV10CodingKeysO"
+- "11ParsingJson19AnimalObjectSummaryV"
+- "11ParsingJson19AnimalObjectSummaryV10CodingKeysO"
+- "11ParsingJson13ObjectDetailsV"
+- "11ParsingJson13ObjectDetailsV10CodingKeysO"
+provides-member:
+- ["11ParsingJson6ObjectV", ""]
+- ["11ParsingJson6ObjectV10CodingKeysO", ""]
+- ["11ParsingJson16CarObjectSummaryV", ""]
+- ["11ParsingJson16CarObjectSummaryV10CodingKeysO", ""]
+- ["11ParsingJson5ImageV", ""]
+- ["11ParsingJson5ImageV10CodingKeysO", ""]
+- ["11ParsingJson21ComputerObjectSummaryV", ""]
+- ["11ParsingJson21ComputerObjectSummaryV10CodingKeysO", ""]
+- ["11ParsingJson19AnimalObjectSummaryV", ""]
+- ["11ParsingJson19AnimalObjectSummaryV10CodingKeysO", ""]
+- ["11ParsingJson13ObjectDetailsV", ""]
+- ["11ParsingJson13ObjectDetailsV10CodingKeysO", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "=="
+- "AnimalObjectSummary"
+- !private "Array"
+- "CarObjectSummary"
+- "Codable"
+- "CodingKey"
+- "ComputerObjectSummary"
+- "Image"
+- "Object"
+- "ObjectDetails"
+- "String"
+- "StringLiteralType"
+- !private "_findStringSwitchCase"
+- !private "~="
+depends-member:
+- ["11ParsingJson19AnimalObjectSummaryV", "CodingKey"]
+- ["11ParsingJson19AnimalObjectSummaryV", "CodingKeys"]
+- ["11ParsingJson19AnimalObjectSummaryV", "Image"]
+- ["11ParsingJson19AnimalObjectSummaryV", "ObjectDetails"]
+- ["11ParsingJson19AnimalObjectSummaryV", "String"]
+- !private ["11ParsingJson19AnimalObjectSummaryV", "_findStringSwitchCase"]
+- ["11ParsingJson19AnimalObjectSummaryV", "age"]
+- ["11ParsingJson19AnimalObjectSummaryV", "deinit"]
+- ["11ParsingJson19AnimalObjectSummaryV", "encode"]
+- ["11ParsingJson19AnimalObjectSummaryV", "favoriteToy"]
+- ["11ParsingJson19AnimalObjectSummaryV", "image"]
+- ["11ParsingJson19AnimalObjectSummaryV", "init"]
+- ["11ParsingJson19AnimalObjectSummaryV", "objectSummary"]
+- ["SK", "init"]
+- ["SK", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- ["s7CVarArgP", "init"]
+- ["s7CVarArgP", "init"]
+- ["11ParsingJson16CarObjectSummaryV", "CodingKey"]
+- ["11ParsingJson16CarObjectSummaryV", "CodingKeys"]
+- ["11ParsingJson16CarObjectSummaryV", "ObjectDetails"]
+- ["11ParsingJson16CarObjectSummaryV", "String"]
+- !private ["11ParsingJson16CarObjectSummaryV", "_findStringSwitchCase"]
+- ["11ParsingJson16CarObjectSummaryV", "deinit"]
+- ["11ParsingJson16CarObjectSummaryV", "doors"]
+- ["11ParsingJson16CarObjectSummaryV", "encode"]
+- ["11ParsingJson16CarObjectSummaryV", "init"]
+- ["11ParsingJson16CarObjectSummaryV", "milage"]
+- ["11ParsingJson16CarObjectSummaryV", "objectSummary"]
+- ["11ParsingJson16CarObjectSummaryV", "price"]
+- ["s9CodingKeyP", "RawValue"]
+- ["s9CodingKeyP", ""]
+- ["s9CodingKeyP", "_Default_RawValue"]
+- !private ["s9CodingKeyP", "_findStringSwitchCase"]
+- ["s9CodingKeyP", "debugDescription"]
+- ["s9CodingKeyP", "description"]
+- ["s9CodingKeyP", "hash"]
+- ["s9CodingKeyP", "hashValue"]
+- ["s9CodingKeyP", "init"]
+- !private ["s9CodingKeyP", "init"]
+- ["s9CodingKeyP", "intValue"]
+- ["s9CodingKeyP", "rawValue"]
+- ["s9CodingKeyP", "stringValue"]
+- ["11ParsingJson6ObjectV10CodingKeysO", "Car"]
+- ["11ParsingJson6ObjectV10CodingKeysO", "Cat"]
+- ["11ParsingJson6ObjectV10CodingKeysO", "Computer"]
+- ["11ParsingJson6ObjectV10CodingKeysO", "Dog"]
+- ["11ParsingJson13ObjectDetailsV10CodingKeysO", "RawValue"]
+- ["11ParsingJson16CarObjectSummaryV10CodingKeysO", "RawValue"]
+- ["11ParsingJson19AnimalObjectSummaryV10CodingKeysO", "RawValue"]
+- ["11ParsingJson21ComputerObjectSummaryV10CodingKeysO", "RawValue"]
+- ["11ParsingJson5ImageV10CodingKeysO", "RawValue"]
+- ["11ParsingJson6ObjectV10CodingKeysO", "RawValue"]
+- ["11ParsingJson13ObjectDetailsV10CodingKeysO", "_Default_RawValue"]
+- ["11ParsingJson16CarObjectSummaryV10CodingKeysO", "_Default_RawValue"]
+- ["11ParsingJson19AnimalObjectSummaryV10CodingKeysO", "_Default_RawValue"]
+- ["11ParsingJson21ComputerObjectSummaryV10CodingKeysO", "_Default_RawValue"]
+- ["11ParsingJson5ImageV10CodingKeysO", "_Default_RawValue"]
+- ["11ParsingJson6ObjectV10CodingKeysO", "_Default_RawValue"]
+- !private ["11ParsingJson13ObjectDetailsV10CodingKeysO", "_findStringSwitchCase"]
+- !private ["11ParsingJson16CarObjectSummaryV10CodingKeysO", "_findStringSwitchCase"]
+- !private ["11ParsingJson19AnimalObjectSummaryV10CodingKeysO", "_findStringSwitchCase"]
+- !private ["11ParsingJson21ComputerObjectSummaryV10CodingKeysO", "_findStringSwitchCase"]
+- !private ["11ParsingJson5ImageV10CodingKeysO", "_findStringSwitchCase"]
+- !private ["11ParsingJson6ObjectV10CodingKeysO", "_findStringSwitchCase"]
+- ["11ParsingJson19AnimalObjectSummaryV10CodingKeysO", "age"]
+- ["11ParsingJson13ObjectDetailsV10CodingKeysO", "color"]
+- ["11ParsingJson13ObjectDetailsV10CodingKeysO", "debugDescription"]
+- ["11ParsingJson16CarObjectSummaryV10CodingKeysO", "debugDescription"]
+- ["11ParsingJson19AnimalObjectSummaryV10CodingKeysO", "debugDescription"]
+- ["11ParsingJson21ComputerObjectSummaryV10CodingKeysO", "debugDescription"]
+- ["11ParsingJson5ImageV10CodingKeysO", "debugDescription"]
+- ["11ParsingJson6ObjectV10CodingKeysO", "debugDescription"]
+- ["11ParsingJson13ObjectDetailsV10CodingKeysO", "deinit"]
+- ["11ParsingJson16CarObjectSummaryV10CodingKeysO", "deinit"]
+- ["11ParsingJson19AnimalObjectSummaryV10CodingKeysO", "deinit"]
+- ["11ParsingJson21ComputerObjectSummaryV10CodingKeysO", "deinit"]
+- ["11ParsingJson5ImageV10CodingKeysO", "deinit"]
+- ["11ParsingJson6ObjectV10CodingKeysO", "deinit"]
+- ["11ParsingJson13ObjectDetailsV10CodingKeysO", "description"]
+- ["11ParsingJson16CarObjectSummaryV10CodingKeysO", "description"]
+- ["11ParsingJson19AnimalObjectSummaryV10CodingKeysO", "description"]
+- ["11ParsingJson21ComputerObjectSummaryV10CodingKeysO", "description"]
+- ["11ParsingJson5ImageV10CodingKeysO", "description"]
+- ["11ParsingJson6ObjectV10CodingKeysO", "description"]
+- ["11ParsingJson16CarObjectSummaryV10CodingKeysO", "doors"]
+- ["11ParsingJson19AnimalObjectSummaryV10CodingKeysO", "favoriteToy"]
+- ["11ParsingJson13ObjectDetailsV10CodingKeysO", "hash"]
+- ["11ParsingJson16CarObjectSummaryV10CodingKeysO", "hash"]
+- ["11ParsingJson19AnimalObjectSummaryV10CodingKeysO", "hash"]
+- ["11ParsingJson21ComputerObjectSummaryV10CodingKeysO", "hash"]
+- ["11ParsingJson5ImageV10CodingKeysO", "hash"]
+- ["11ParsingJson6ObjectV10CodingKeysO", "hash"]
+- ["11ParsingJson13ObjectDetailsV10CodingKeysO", "hashValue"]
+- ["11ParsingJson16CarObjectSummaryV10CodingKeysO", "hashValue"]
+- ["11ParsingJson19AnimalObjectSummaryV10CodingKeysO", "hashValue"]
+- ["11ParsingJson21ComputerObjectSummaryV10CodingKeysO", "hashValue"]
+- ["11ParsingJson5ImageV10CodingKeysO", "hashValue"]
+- ["11ParsingJson6ObjectV10CodingKeysO", "hashValue"]
+- ["11ParsingJson5ImageV10CodingKeysO", "height"]
+- ["11ParsingJson19AnimalObjectSummaryV10CodingKeysO", "image"]
+- ["11ParsingJson21ComputerObjectSummaryV10CodingKeysO", "image"]
+- ["11ParsingJson13ObjectDetailsV10CodingKeysO", "init"]
+- ["11ParsingJson16CarObjectSummaryV10CodingKeysO", "init"]
+- ["11ParsingJson19AnimalObjectSummaryV10CodingKeysO", "init"]
+- ["11ParsingJson21ComputerObjectSummaryV10CodingKeysO", "init"]
+- ["11ParsingJson5ImageV10CodingKeysO", "init"]
+- ["11ParsingJson6ObjectV10CodingKeysO", "init"]
+- !private ["11ParsingJson13ObjectDetailsV10CodingKeysO", "init"]
+- !private ["11ParsingJson16CarObjectSummaryV10CodingKeysO", "init"]
+- !private ["11ParsingJson19AnimalObjectSummaryV10CodingKeysO", "init"]
+- !private ["11ParsingJson21ComputerObjectSummaryV10CodingKeysO", "init"]
+- !private ["11ParsingJson5ImageV10CodingKeysO", "init"]
+- !private ["11ParsingJson6ObjectV10CodingKeysO", "init"]
+- ["11ParsingJson13ObjectDetailsV10CodingKeysO", "intValue"]
+- ["11ParsingJson16CarObjectSummaryV10CodingKeysO", "intValue"]
+- ["11ParsingJson19AnimalObjectSummaryV10CodingKeysO", "intValue"]
+- ["11ParsingJson21ComputerObjectSummaryV10CodingKeysO", "intValue"]
+- ["11ParsingJson5ImageV10CodingKeysO", "intValue"]
+- ["11ParsingJson6ObjectV10CodingKeysO", "intValue"]
+- ["11ParsingJson16CarObjectSummaryV10CodingKeysO", "milage"]
+- ["11ParsingJson13ObjectDetailsV10CodingKeysO", "name"]
+- ["11ParsingJson16CarObjectSummaryV10CodingKeysO", "objectSummary"]
+- ["11ParsingJson19AnimalObjectSummaryV10CodingKeysO", "objectSummary"]
+- ["11ParsingJson21ComputerObjectSummaryV10CodingKeysO", "objectSummary"]
+- ["11ParsingJson16CarObjectSummaryV10CodingKeysO", "price"]
+- ["11ParsingJson21ComputerObjectSummaryV10CodingKeysO", "purchaseDate"]
+- ["11ParsingJson13ObjectDetailsV10CodingKeysO", "rawValue"]
+- ["11ParsingJson16CarObjectSummaryV10CodingKeysO", "rawValue"]
+- ["11ParsingJson19AnimalObjectSummaryV10CodingKeysO", "rawValue"]
+- ["11ParsingJson21ComputerObjectSummaryV10CodingKeysO", "rawValue"]
+- ["11ParsingJson5ImageV10CodingKeysO", "rawValue"]
+- ["11ParsingJson6ObjectV10CodingKeysO", "rawValue"]
+- ["11ParsingJson13ObjectDetailsV10CodingKeysO", "stringValue"]
+- ["11ParsingJson16CarObjectSummaryV10CodingKeysO", "stringValue"]
+- ["11ParsingJson19AnimalObjectSummaryV10CodingKeysO", "stringValue"]
+- ["11ParsingJson21ComputerObjectSummaryV10CodingKeysO", "stringValue"]
+- ["11ParsingJson5ImageV10CodingKeysO", "stringValue"]
+- ["11ParsingJson6ObjectV10CodingKeysO", "stringValue"]
+- ["11ParsingJson13ObjectDetailsV10CodingKeysO", "type"]
+- ["11ParsingJson5ImageV10CodingKeysO", "url"]
+- ["11ParsingJson5ImageV10CodingKeysO", "width"]
+- ["Sl", "init"]
+- ["Sl", "init"]
+- ["SL", "init"]
+- ["SL", "init"]
+- ["11ParsingJson21ComputerObjectSummaryV", "CodingKey"]
+- ["11ParsingJson21ComputerObjectSummaryV", "CodingKeys"]
+- ["11ParsingJson21ComputerObjectSummaryV", "Image"]
+- ["11ParsingJson21ComputerObjectSummaryV", "ObjectDetails"]
+- ["11ParsingJson21ComputerObjectSummaryV", "String"]
+- !private ["11ParsingJson21ComputerObjectSummaryV", "_findStringSwitchCase"]
+- ["11ParsingJson21ComputerObjectSummaryV", "deinit"]
+- ["11ParsingJson21ComputerObjectSummaryV", "encode"]
+- ["11ParsingJson21ComputerObjectSummaryV", "image"]
+- ["11ParsingJson21ComputerObjectSummaryV", "init"]
+- ["11ParsingJson21ComputerObjectSummaryV", "objectSummary"]
+- ["11ParsingJson21ComputerObjectSummaryV", "purchaseDate"]
+- ["s28CustomDebugStringConvertibleP", "RawValue"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- ["s28CustomDebugStringConvertibleP", "_Default_RawValue"]
+- !private ["s28CustomDebugStringConvertibleP", "_findStringSwitchCase"]
+- ["s28CustomDebugStringConvertibleP", "debugDescription"]
+- ["s28CustomDebugStringConvertibleP", "description"]
+- ["s28CustomDebugStringConvertibleP", "hash"]
+- ["s28CustomDebugStringConvertibleP", "hashValue"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "intValue"]
+- ["s28CustomDebugStringConvertibleP", "rawValue"]
+- ["s28CustomDebugStringConvertibleP", "stringValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- ["s17CustomReflectableP", "init"]
+- ["s17CustomReflectableP", "init"]
+- ["s23CustomStringConvertibleP", "RawValue"]
+- ["s23CustomStringConvertibleP", ""]
+- ["s23CustomStringConvertibleP", "_Default_RawValue"]
+- !private ["s23CustomStringConvertibleP", "_findStringSwitchCase"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- ["s23CustomStringConvertibleP", "debugDescription"]
+- ["s23CustomStringConvertibleP", "description"]
+- ["s23CustomStringConvertibleP", "hash"]
+- ["s23CustomStringConvertibleP", "hashValue"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "intValue"]
+- ["s23CustomStringConvertibleP", "rawValue"]
+- ["s23CustomStringConvertibleP", "stringValue"]
+- !private ["Se", "Car"]
+- !private ["Se", "Cat"]
+- !private ["Se", "Computer"]
+- !private ["Se", "Dog"]
+- ["Se", ""]
+- !private ["Se", "_findStringSwitchCase"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "age"]
+- !private ["Se", "color"]
+- !private ["Se", "description"]
+- !private ["Se", "doors"]
+- ["Se", "encode"]
+- !private ["Se", "favoriteToy"]
+- !private ["Se", "height"]
+- !private ["Se", "image"]
+- ["Se", "init"]
+- ["Se", "init"]
+- !private ["Se", "milage"]
+- !private ["Se", "name"]
+- !private ["Se", "objectSummary"]
+- !private ["Se", "price"]
+- !private ["Se", "purchaseDate"]
+- !private ["Se", "type"]
+- !private ["Se", "url"]
+- !private ["Se", "width"]
+- !private ["s7DecoderP", "container"]
+- !private ["SE", "Car"]
+- !private ["SE", "Cat"]
+- !private ["SE", "Computer"]
+- !private ["SE", "Dog"]
+- ["SE", ""]
+- !private ["SE", "_findStringSwitchCase"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "age"]
+- !private ["SE", "color"]
+- !private ["SE", "description"]
+- !private ["SE", "doors"]
+- ["SE", "encode"]
+- !private ["SE", "favoriteToy"]
+- !private ["SE", "height"]
+- !private ["SE", "image"]
+- ["SE", "init"]
+- ["SE", "init"]
+- !private ["SE", "milage"]
+- !private ["SE", "name"]
+- !private ["SE", "objectSummary"]
+- !private ["SE", "price"]
+- !private ["SE", "purchaseDate"]
+- !private ["SE", "type"]
+- !private ["SE", "url"]
+- !private ["SE", "width"]
+- !private ["s7EncoderP", "container"]
+- ["SQ", "RawValue"]
+- ["SQ", ""]
+- ["SQ", "_Default_RawValue"]
+- !private ["SQ", "_findStringSwitchCase"]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- ["SQ", "debugDescription"]
+- ["SQ", "description"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- ["SQ", "init"]
+- ["SQ", "init"]
+- ["SQ", "intValue"]
+- ["SQ", "rawValue"]
+- ["SQ", "stringValue"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["SH", "RawValue"]
+- ["SH", ""]
+- ["SH", "_Default_RawValue"]
+- !private ["SH", "_findStringSwitchCase"]
+- !private ["SH", "_getBuiltinLogicValue"]
+- ["SH", "debugDescription"]
+- ["SH", "description"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- ["SH", "init"]
+- ["SH", "init"]
+- ["SH", "intValue"]
+- ["SH", "rawValue"]
+- ["SH", "stringValue"]
+- !private ["s6HasherV", "combine"]
+- ["11ParsingJson5ImageV", "CodingKey"]
+- ["11ParsingJson5ImageV", "CodingKeys"]
+- ["11ParsingJson5ImageV", "String"]
+- !private ["11ParsingJson5ImageV", "_findStringSwitchCase"]
+- ["11ParsingJson5ImageV", "deinit"]
+- ["11ParsingJson5ImageV", "encode"]
+- ["11ParsingJson5ImageV", "height"]
+- ["11ParsingJson5ImageV", "init"]
+- ["11ParsingJson5ImageV", "url"]
+- ["11ParsingJson5ImageV", "width"]
+- !private ["s22KeyedDecodingContainerV", "decode"]
+- !private ["s30KeyedDecodingContainerProtocolP", "decode"]
+- !private ["s22KeyedEncodingContainerV", "encode"]
+- !private ["s30KeyedEncodingContainerProtocolP", "encode"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s10MirrorPathP", "init"]
+- ["s10MirrorPathP", "init"]
+- ["11ParsingJson6ObjectV", "AnimalObjectSummary"]
+- ["11ParsingJson6ObjectV", "Car"]
+- ["11ParsingJson6ObjectV", "CarObjectSummary"]
+- ["11ParsingJson6ObjectV", "Cat"]
+- ["11ParsingJson6ObjectV", "CodingKey"]
+- ["11ParsingJson6ObjectV", "CodingKeys"]
+- ["11ParsingJson6ObjectV", "Computer"]
+- ["11ParsingJson6ObjectV", "ComputerObjectSummary"]
+- ["11ParsingJson6ObjectV", "Dog"]
+- ["11ParsingJson6ObjectV", "String"]
+- !private ["11ParsingJson6ObjectV", "_findStringSwitchCase"]
+- ["11ParsingJson6ObjectV", "deinit"]
+- ["11ParsingJson6ObjectV", "encode"]
+- ["11ParsingJson6ObjectV", "init"]
+- ["11ParsingJson13ObjectDetailsV", "CodingKey"]
+- ["11ParsingJson13ObjectDetailsV", "CodingKeys"]
+- ["11ParsingJson13ObjectDetailsV", "String"]
+- !private ["11ParsingJson13ObjectDetailsV", "_findStringSwitchCase"]
+- ["11ParsingJson13ObjectDetailsV", "color"]
+- ["11ParsingJson13ObjectDetailsV", "deinit"]
+- ["11ParsingJson13ObjectDetailsV", "description"]
+- ["11ParsingJson13ObjectDetailsV", "encode"]
+- ["11ParsingJson13ObjectDetailsV", "init"]
+- ["11ParsingJson13ObjectDetailsV", "name"]
+- ["11ParsingJson13ObjectDetailsV", "type"]
+- ["Sm", "init"]
+- ["Sm", "init"]
+- ["SY", "RawValue"]
+- ["SY", ""]
+- ["SY", "_Default_RawValue"]
+- !private ["SY", "_findStringSwitchCase"]
+- ["SY", "debugDescription"]
+- ["SY", "description"]
+- ["SY", "hash"]
+- ["SY", "hashValue"]
+- ["SY", "init"]
+- !private ["SY", "init"]
+- ["SY", "intValue"]
+- ["SY", "rawValue"]
+- ["SY", "stringValue"]
+- ["ST", "init"]
+- ["ST", "init"]
+- !private ["s12StaticStringV", "init"]
+- !private ["s12StaticStringV", "init"]
+- ["SS", "init"]
+- ["SS", "init"]
+- ["Sy", "init"]
+- ["Sy", "init"]
+- ["s16TextOutputStreamP", "init"]
+- ["s16TextOutputStreamP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- ["s16_SwiftStringViewP", "init"]
+- ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- "11ParsingJson19AnimalObjectSummaryV"
+- "SK"
+- !private "Sb"
+- "s7CVarArgP"
+- "11ParsingJson16CarObjectSummaryV"
+- "s9CodingKeyP"
+- "11ParsingJson6ObjectV10CodingKeysO"
+- "11ParsingJson13ObjectDetailsV10CodingKeysO"
+- "11ParsingJson16CarObjectSummaryV10CodingKeysO"
+- "11ParsingJson19AnimalObjectSummaryV10CodingKeysO"
+- "11ParsingJson21ComputerObjectSummaryV10CodingKeysO"
+- "11ParsingJson5ImageV10CodingKeysO"
+- "11ParsingJson6ObjectV10CodingKeysO"
+- "11ParsingJson13ObjectDetailsV10CodingKeysO"
+- "11ParsingJson16CarObjectSummaryV10CodingKeysO"
+- "11ParsingJson19AnimalObjectSummaryV10CodingKeysO"
+- "11ParsingJson21ComputerObjectSummaryV10CodingKeysO"
+- "11ParsingJson5ImageV10CodingKeysO"
+- "11ParsingJson6ObjectV10CodingKeysO"
+- !private "11ParsingJson13ObjectDetailsV10CodingKeysO"
+- !private "11ParsingJson16CarObjectSummaryV10CodingKeysO"
+- !private "11ParsingJson19AnimalObjectSummaryV10CodingKeysO"
+- !private "11ParsingJson21ComputerObjectSummaryV10CodingKeysO"
+- !private "11ParsingJson5ImageV10CodingKeysO"
+- !private "11ParsingJson6ObjectV10CodingKeysO"
+- "11ParsingJson19AnimalObjectSummaryV10CodingKeysO"
+- "11ParsingJson13ObjectDetailsV10CodingKeysO"
+- "11ParsingJson16CarObjectSummaryV10CodingKeysO"
+- "11ParsingJson19AnimalObjectSummaryV10CodingKeysO"
+- "11ParsingJson21ComputerObjectSummaryV10CodingKeysO"
+- "11ParsingJson5ImageV10CodingKeysO"
+- "11ParsingJson6ObjectV10CodingKeysO"
+- "11ParsingJson13ObjectDetailsV10CodingKeysO"
+- "11ParsingJson16CarObjectSummaryV10CodingKeysO"
+- "11ParsingJson19AnimalObjectSummaryV10CodingKeysO"
+- "11ParsingJson21ComputerObjectSummaryV10CodingKeysO"
+- "11ParsingJson5ImageV10CodingKeysO"
+- "11ParsingJson6ObjectV10CodingKeysO"
+- "11ParsingJson13ObjectDetailsV10CodingKeysO"
+- "11ParsingJson16CarObjectSummaryV10CodingKeysO"
+- "11ParsingJson19AnimalObjectSummaryV10CodingKeysO"
+- "11ParsingJson21ComputerObjectSummaryV10CodingKeysO"
+- "11ParsingJson5ImageV10CodingKeysO"
+- "11ParsingJson6ObjectV10CodingKeysO"
+- "11ParsingJson16CarObjectSummaryV10CodingKeysO"
+- "11ParsingJson19AnimalObjectSummaryV10CodingKeysO"
+- "11ParsingJson13ObjectDetailsV10CodingKeysO"
+- "11ParsingJson16CarObjectSummaryV10CodingKeysO"
+- "11ParsingJson19AnimalObjectSummaryV10CodingKeysO"
+- "11ParsingJson21ComputerObjectSummaryV10CodingKeysO"
+- "11ParsingJson5ImageV10CodingKeysO"
+- "11ParsingJson6ObjectV10CodingKeysO"
+- "11ParsingJson13ObjectDetailsV10CodingKeysO"
+- "11ParsingJson16CarObjectSummaryV10CodingKeysO"
+- "11ParsingJson19AnimalObjectSummaryV10CodingKeysO"
+- "11ParsingJson21ComputerObjectSummaryV10CodingKeysO"
+- "11ParsingJson5ImageV10CodingKeysO"
+- "11ParsingJson6ObjectV10CodingKeysO"
+- "11ParsingJson5ImageV10CodingKeysO"
+- "11ParsingJson19AnimalObjectSummaryV10CodingKeysO"
+- "11ParsingJson21ComputerObjectSummaryV10CodingKeysO"
+- "11ParsingJson13ObjectDetailsV10CodingKeysO"
+- "11ParsingJson16CarObjectSummaryV10CodingKeysO"
+- "11ParsingJson19AnimalObjectSummaryV10CodingKeysO"
+- "11ParsingJson21ComputerObjectSummaryV10CodingKeysO"
+- "11ParsingJson5ImageV10CodingKeysO"
+- "11ParsingJson6ObjectV10CodingKeysO"
+- !private "11ParsingJson13ObjectDetailsV10CodingKeysO"
+- !private "11ParsingJson16CarObjectSummaryV10CodingKeysO"
+- !private "11ParsingJson19AnimalObjectSummaryV10CodingKeysO"
+- !private "11ParsingJson21ComputerObjectSummaryV10CodingKeysO"
+- !private "11ParsingJson5ImageV10CodingKeysO"
+- !private "11ParsingJson6ObjectV10CodingKeysO"
+- "11ParsingJson13ObjectDetailsV10CodingKeysO"
+- "11ParsingJson16CarObjectSummaryV10CodingKeysO"
+- "11ParsingJson19AnimalObjectSummaryV10CodingKeysO"
+- "11ParsingJson21ComputerObjectSummaryV10CodingKeysO"
+- "11ParsingJson5ImageV10CodingKeysO"
+- "11ParsingJson6ObjectV10CodingKeysO"
+- "11ParsingJson16CarObjectSummaryV10CodingKeysO"
+- "11ParsingJson13ObjectDetailsV10CodingKeysO"
+- "11ParsingJson16CarObjectSummaryV10CodingKeysO"
+- "11ParsingJson19AnimalObjectSummaryV10CodingKeysO"
+- "11ParsingJson21ComputerObjectSummaryV10CodingKeysO"
+- "11ParsingJson16CarObjectSummaryV10CodingKeysO"
+- "11ParsingJson21ComputerObjectSummaryV10CodingKeysO"
+- "11ParsingJson13ObjectDetailsV10CodingKeysO"
+- "11ParsingJson16CarObjectSummaryV10CodingKeysO"
+- "11ParsingJson19AnimalObjectSummaryV10CodingKeysO"
+- "11ParsingJson21ComputerObjectSummaryV10CodingKeysO"
+- "11ParsingJson5ImageV10CodingKeysO"
+- "11ParsingJson6ObjectV10CodingKeysO"
+- "11ParsingJson13ObjectDetailsV10CodingKeysO"
+- "11ParsingJson16CarObjectSummaryV10CodingKeysO"
+- "11ParsingJson19AnimalObjectSummaryV10CodingKeysO"
+- "11ParsingJson21ComputerObjectSummaryV10CodingKeysO"
+- "11ParsingJson5ImageV10CodingKeysO"
+- "11ParsingJson6ObjectV10CodingKeysO"
+- "11ParsingJson13ObjectDetailsV10CodingKeysO"
+- "11ParsingJson5ImageV10CodingKeysO"
+- "Sl"
+- "SL"
+- "11ParsingJson21ComputerObjectSummaryV"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- !private "s7DecoderP"
+- "SE"
+- !private "s7EncoderP"
+- "SQ"
+- !private "s27ExpressibleByBooleanLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- !private "s6HasherV"
+- "11ParsingJson5ImageV"
+- !private "s22KeyedDecodingContainerV"
+- !private "s30KeyedDecodingContainerProtocolP"
+- !private "s22KeyedEncodingContainerV"
+- !private "s30KeyedEncodingContainerProtocolP"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- "11ParsingJson6ObjectV"
+- "11ParsingJson13ObjectDetailsV"
+- "Sm"
+- "SY"
+- "ST"
+- !private "s12StaticStringV"
+- "SS"
+- "Sy"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- "s21_ObjectiveCBridgeableP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "1c73848569836a2adc134aad426a9b2c"
